@@ -1,5 +1,4 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Chase UK
-- 🤔 I’m looking for help with start-ups
+- 🔭 I’m currently working on Creatopy AI
 - ⚡ Fun fact: I worked for Queen Elizabeth II
